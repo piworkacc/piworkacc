@@ -4,7 +4,7 @@
 - 🌱 I’m currently developing WEB applications using JavaScript stack (React, Exrpress, Node.JS, Redux, Ant Design, Styled Components full list .) 
 - 👯 I’m looking to collaborate on crypto, blockjain and nft projects.
 - 📫 How to reach me: 
-[linkedin](https://www.linkedin.com/in/ivanpuzyrou/#experience "linkedin"), e-mail: <puzirev.work@gmail.com> and telegram @
+[linkedin](https://www.linkedin.com/in/ivanpuzyrou/#experience "linkedin"), e-mail: <puzirev.work@gmail.com> and telegram https://t.me/IvanPuzyrou
 - 💬 My [CV in Russian hh.ru](https://hh.ru/applicant/resumes/view?resume=e77cba40ff09cce3a60039ed1f774b79445952 "HeadHunter")
 
 ## My current stack:
